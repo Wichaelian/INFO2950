@@ -6,4 +6,4 @@ Dataset 4: Coronovirus deaths per capita. Possible variables that could affect t
 Questions for Reviewers
 1. How would you compare data? Would you need to combine data files in a way?
 2. For the entire project, how many arguemnts should we make with the data? Consider the format of "the effect of  ____ on ____" as one argument. 
-3. 
+3. Besides Kaggle, what resources can/should we use to collect our data? Specifically, what resources would work best for the datasets above?
