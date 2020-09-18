@@ -7,3 +7,4 @@ Questions for Reviewers
 1. How would you compare data? Would you need to combine data files in a way?
 2. For the entire project, how many arguemnts should we make with the data? Consider the format of "the effect of  ____ on ____" as one argument. 
 3. Besides Kaggle, what resources can/should we use to collect our data? Specifically, what resources would work best for the datasets above?
+4. Are there ways to convert data to different extension types like .csv or can it be used in any format?
