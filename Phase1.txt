@@ -1,6 +1,6 @@
 Dataset 1: S&P 500 component prices over course of last year. Extremely accurate and data can be found for free on the internet.
 Dataset 2: Trends in google searches over COVID (i.e. what became more popular during covid? Cooking/baking, exercise, gardening, etc.)
 Dataset 3: Housing prices compared to things that may affect it, like median income, taxes, and inflation
-Dataset 4:
+Dataset 4: Coronovirus deaths per capita.
 
 Questions for Reviewers
