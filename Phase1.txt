@@ -1,5 +1,5 @@
 Dataset 1: S&P 500 component prices over course of last year. Extremely accurate and data can be found for free on the internet.
-Dataset 2:
+Dataset 2: Housing prices compared to things that may affect it, like median income, taxes, and inflation
 Dataset 3:
 Dataset 4:
 
