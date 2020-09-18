@@ -1,5 +1,5 @@
 Dataset 1: S&P 500 component prices over course of last year. Extremely accurate and data can be found for free on the internet.
-Dataset 2:
+Dataset 2: Coronavirus deaths per capita. 
 Dataset 3:
 Dataset 4:
 
