@@ -4,3 +4,4 @@ Dataset 3: Housing prices compared to things that may affect it, like median inc
 Dataset 4: Coronovirus deaths per capita.
 
 Questions for Reviewers
+1. How would you compare data? Would you need to combine data files in a way?
