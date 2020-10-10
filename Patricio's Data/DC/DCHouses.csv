@@ -1,43 +1,42 @@
-﻿Selected Geographies,number
- -> Total,2215218
-"District of Columbia (West) PUMA, District of Columbia",47582
-"District of Columbia (North) PUMA, District of Columbia",52068
-"District of Columbia (Northeast) PUMA, District of Columbia",55868
-"District of Columbia (East) PUMA, District of Columbia",72500
-"District of Columbia (Central) PUMA, District of Columbia",91561
-"Frederick County (Outside Greater Frederick City) PUMA, Maryland",47768
-"Frederick County (Central)--Greater Frederick City PUMA, Maryland",51264
-"Montgomery County (North & West)--Olney, Damascus, Clarksburg & Darnestown PUMA; Maryland",47450
-"Montgomery County (West Central)--Germantown & Montgomery Village PUMA, Maryland",44757
-"Montgomery County (Central)--Rockville, Gaithersburg Cities & North Potomac PUMA; Maryland",74055
-"Montgomery County (South)--Bethesda, Potomac & North Bethesda PUMA; Maryland",77242
-"Montgomery County (East Central)--Wheaton, Aspen Hill & Glenmont PUMA; Maryland",54190
-"Montgomery County (East)--Fairland, Calverton, White Oak & Burtonsville PUMA; Maryland",43972
-"Montgomery County (Southeast)--Takoma Park City & Silver Spring PUMA, Maryland",49007
-"Prince George's County (Northwest)--College Park City & Langley Park PUMA, Maryland",36636
-"Prince George's County (North)--Laurel, Greenbelt (North & East) Cities & Beltsville PUMA; Maryland",52427
-"Prince George's County (Northwest)--New Carrollton & Hyattsville (Southeast) Cities PUMA, Maryland",38397
-"Prince George's County (Central)--Seat Pleasant City, Capitol Heights Town & Landover PUMA; Maryland",44136
-"Prince George's County (East)--Bowie City, Kettering, Largo, Mitchellville & Lanham PUMA; Maryland",67839
-"Prince George's County (South)--Clinton, Fort Washington (South), Rosaryville & Croom PUMA; Maryland",43022
-"Prince George's County (Southwest)--Oxon Hill, Hillcrest Heights & Temple Hills PUMA; Maryland",51401
-"St. Mary's & Calvert Counties PUMA, Maryland",81418
-"Charles County--La Plata Town & Waldorf PUMA, Maryland",61244
-"Arlington County (North) PUMA, Virginia",55924
-"Arlington County (South) PUMA, Virginia",60619
-"Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village) PUMA, Virginia",39124
-"Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport PUMA, Virginia",49102
-"Loudoun County (West & South)--Leesburg Town PUMA, Virginia",48283
-"Prince William County (North & West)--Linton Hall & Gainesville PUMA, Virginia",41245
-"Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley PUMA; Virginia",44182
-"Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge PUMA; Virginia",84992
-"Alexandria City PUMA, Virginia",76527
-"Fairfax County (East Central)--Annandale, West Falls Church & Bailey's Crossroads PUMA; Virginia",53444
-"Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon PUMA; Virginia",50484
-"Fairfax County (Central) & Fairfax City--Burke PUMA, Virginia",51152
-"Fairfax County (Southwest)--Centreville (Southeast) & Lorton PUMA, Virginia",36082
-"Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East) PUMA; Virginia",48044
-"Fairfax County (South Central)--Springfield (South), West Springfield & Franconia PUMA; Virginia",40350
-"Fairfax County (Northwest)--Reston (North) & Franklin Farm PUMA, Virginia",63220
-"Fairfax County (Northeast)--McLean & Idylwood PUMA, Virginia",45728
-"Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West) PUMA, Virginia",40912
+﻿Selected Geographies,Households,"Household income (past 12 months, use ADJINC to adjust HINCP to constant dollars)",Property taxes (yearly real estate taxes),Gross rent as a percentage of household income past 12 months
+"District of Columbia (West) PUMA, District of Columbia",47582,196324.4532,4174.075974,14.34216721
+"District of Columbia (North) PUMA, District of Columbia",52068,98239.79469,1657.478835,16.27777138
+"District of Columbia (Northeast) PUMA, District of Columbia",55868,99667.80196,1921.585648,16.2958044
+"District of Columbia (East) PUMA, District of Columbia",72500,41974.00979,541.1309931,24.63496552
+"District of Columbia (Central) PUMA, District of Columbia",91561,112511.2064,1264.807746,18.69227073
+"Frederick County (Outside Greater Frederick City) PUMA, Maryland",47768,120985.7701,3235.528701,4.956163122
+"Frederick County (Central)--Greater Frederick City PUMA, Maryland",51264,98887.62172,2429.626834,11.90205602
+"Montgomery County (North & West)--Olney, Damascus, Clarksburg & Darnestown PUMA; Maryland",47450,165678.0592,4843.454542,4.119199157
+"Montgomery County (West Central)--Germantown & Montgomery Village PUMA, Maryland",44757,93469.07643,1922.661617,14.18989208
+"Montgomery County (Central)--Rockville, Gaithersburg Cities & North Potomac PUMA; Maryland",74055,125231.032,3019.458916,16.56676794
+"Montgomery County (South)--Bethesda, Potomac & North Bethesda PUMA; Maryland",77242,200352.2498,5567.031006,10.65100593
+"Montgomery County (East Central)--Wheaton, Aspen Hill & Glenmont PUMA; Maryland",54190,115373.0591,2725.274331,9.904299686
+"Montgomery County (East)--Fairland, Calverton, White Oak & Burtonsville PUMA; Maryland",43972,110415.5672,2522.00373,13.32843628
+"Montgomery County (Southeast)--Takoma Park City & Silver Spring PUMA, Maryland",49007,106491.9522,2284.428898,18.38174138
+"Prince George's County (Northwest)--College Park City & Langley Park PUMA, Maryland",36636,71404.61841,1451.330795,23.16224479
+"Prince George's County (North)--Laurel, Greenbelt (North & East) Cities & Beltsville PUMA; Maryland",52427,89870.66874,2369.867282,14.9756614
+"Prince George's County (Northwest)--New Carrollton & Hyattsville (Southeast) Cities PUMA, Maryland",38397,72200.4029,1901.772691,19.29866917
+"Prince George's County (Central)--Seat Pleasant City, Capitol Heights Town & Landover PUMA; Maryland",44136,73894.10481,1625.877742,16.8250861
+"Prince George's County (East)--Bowie City, Kettering, Largo, Mitchellville & Lanham PUMA; Maryland",67839,122321.7754,3810.250092,5.447132181
+"Prince George's County (South)--Clinton, Fort Washington (South), Rosaryville & Croom PUMA; Maryland",43022,114557.783,3636.536865,3.245990424
+"Prince George's County (Southwest)--Oxon Hill, Hillcrest Heights & Temple Hills PUMA; Maryland",51401,77170.05525,1479.63168,18.47892064
+"St. Mary's & Calvert Counties PUMA, Maryland",81418,100101.7651,2297.048847,6.362340023
+"Charles County--La Plata Town & Waldorf PUMA, Maryland",61244,94828.96643,2807.500457,8.421380054
+"Arlington County (North) PUMA, Virginia",55924,166663.161,3947.754077,14.1911344
+"Arlington County (South) PUMA, Virginia",60619,122711.33,1766.77578,20.681486
+"Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village) PUMA, Virginia",39124,134435.63,3046.320034,10.06965034
+"Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport PUMA, Virginia",49102,177377.3205,4204.852124,7.992403568
+"Loudoun County (West & South)--Leesburg Town PUMA, Virginia",48283,174360.1487,4491.491767,5.048609241
+"Prince William County (North & West)--Linton Hall & Gainesville PUMA, Virginia",41245,157544.0049,4209.737035,4.969208389
+"Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley PUMA; Virginia",44182,96618.12525,2234.800054,15.91989951
+"Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge PUMA; Virginia",84992,105846.7252,2673.081502,10.40155544
+"Alexandria City PUMA, Virginia",76527,120161.1186,2421.452507,18.80732291
+"Fairfax County (East Central)--Annandale, West Falls Church & Bailey's Crossroads PUMA; Virginia",53444,107020.3654,2762.115354,15.36743133
+"Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon PUMA; Virginia",50484,119039.7912,3398.214167,11.93061168
+"Fairfax County (Central) & Fairfax City--Burke PUMA, Virginia",51152,144401.9997,4239.04993,7.782256803
+"Fairfax County (Southwest)--Centreville (Southeast) & Lorton PUMA, Virginia",36082,160890.6848,4767.66748,9.616955823
+"Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East) PUMA; Virginia",48044,176450.7547,5075.366352,11.70314712
+"Fairfax County (South Central)--Springfield (South), West Springfield & Franconia PUMA; Virginia",40350,134211.2709,3290.150706,9.53023544
+"Fairfax County (Northwest)--Reston (North) & Franklin Farm PUMA, Virginia",63220,148422.8679,3776.933249,11.09943056
+"Fairfax County (Northeast)--McLean & Idylwood PUMA, Virginia",45728,194955.1039,6468.745255,7.51780091
+"Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West) PUMA, Virginia",40912,133596.0124,3176.880084,12.10417481

@@ -1,11 +1,10 @@
-﻿Selected Geographies,number
- -> Total,485351
-"Lincoln Trail Area Development District (East) PUMA, Kentucky",47396
-"KIPDA Area Development District (Southeast) PUMA, Kentucky",45908
-"KIPDA Area Development District (West)--Louisville/Jefferson County (Northwest) PUMA, Kentucky",62413
-"KIPDA Area Development District (West)--Louisville/Jefferson County (North Central) PUMA, Kentucky",59912
-"KIPDA Area Development District (West)--Louisville/Jefferson County (Northeast) PUMA, Kentucky",51214
-"KIPDA Area Development District (West)--Louisville/Jefferson County (Southeast) PUMA, Kentucky",59026
-"KIPDA Area Development District (West)--Louisville/Jefferson County (South Central) PUMA, Kentucky",53808
-"KIPDA Area Development District (West)--Louisville/Jefferson County (Southwest) PUMA, Kentucky",60746
-"KIPDA Area Development District (Northeast) PUMA, Kentucky",44928
+﻿Selected Geographies,Households,"Household income (past 12 months, use ADJINC to adjust HINCP to constant dollars)",Property taxes (yearly real estate taxes),Gross rent as a percentage of household income past 12 months
+"Lincoln Trail Area Development District (East) PUMA, Kentucky",47396,53273.86805,902.4883323,7.325428306
+"KIPDA Area Development District (Southeast) PUMA, Kentucky",45908,69952.04927,1529.880152,4.461422846
+"KIPDA Area Development District (West)--Louisville/Jefferson County (Northwest) PUMA, Kentucky",62413,14019.03498,236.6331854,20.48523545
+"KIPDA Area Development District (West)--Louisville/Jefferson County (North Central) PUMA, Kentucky",59912,77826.97156,1575.693217,10.38072506
+"KIPDA Area Development District (West)--Louisville/Jefferson County (Northeast) PUMA, Kentucky",51214,122161.3354,2241.467021,7.363552935
+"KIPDA Area Development District (West)--Louisville/Jefferson County (Southeast) PUMA, Kentucky",59026,86542.05757,1436.972216,8.586860028
+"KIPDA Area Development District (West)--Louisville/Jefferson County (South Central) PUMA, Kentucky",53808,55507.83229,891.9955025,11.37665403
+"KIPDA Area Development District (West)--Louisville/Jefferson County (Southwest) PUMA, Kentucky",60746,47575.63165,755.3562704,12.59472229
+"KIPDA Area Development District (Northeast) PUMA, Kentucky",44928,87063.63203,1774.419048,5.909366097
