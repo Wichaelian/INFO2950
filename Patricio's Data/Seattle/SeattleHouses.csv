@@ -1,31 +1,30 @@
-﻿Selected Geographies,number
- -> Total,1617428
-"Pierce County (Central)--Tacoma City (Central) PUMA, Washington",59556
-"Pierce County (Northwest)--Peninsula Region & Tacoma City (West) PUMA, Washington",56424
-"Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord PUMA, Washington",46737
-"Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway PUMA; Washington",49279
-"Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities PUMA, Washington",48458
-"Pierce County (East Central)--Puyallup City & South Hill PUMA, Washington",47877
-"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge PUMA; Washington",42678
-"Seattle City (Northwest) PUMA, Washington",80974
-"Seattle City (Northeast) PUMA, Washington",60537
-"Seattle City (Downtown)--Queen Anne & Magnolia PUMA, Washington",95133
-"Seattle City (Southeast)--Capitol Hill PUMA, Washington",57618
-"Seattle City (West)--Duwamish & Beacon Hill PUMA, Washington",66264
-"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities PUMA; Washington",52984
-"King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill PUMA; Washington",63900
-"King County (Northwest Central)--Greater Bellevue City PUMA, Washington",63959
-"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities PUMA; Washington",61505
-"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway PUMA; Washington",57890
-"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center PUMA; Washington",52551
-"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island PUMA; Washington",52568
-"King County (Southwest Central)--Kent City PUMA, Washington",47597
-"King County (Southwest)--Auburn City & Lakeland PUMA, Washington",46649
-"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities PUMA; Washington",46188
-"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill PUMA; Washington",46280
-"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities PUMA; Washington",49806
-"Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities PUMA, Washington",52974
-"Snohomish County (Central)--Everett City (Central & East) & Eastmont PUMA, Washington",49124
-"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs PUMA; Washington",50403
-"Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities PUMA, Washington",51451
-"Snohomish County (North)--Marysville & Arlington Cities PUMA, Washington",60064
+﻿Selected Geographies,Households,"Household income (past 12 months, use ADJINC to adjust HINCP to constant dollars)",Property taxes (yearly real estate taxes),Gross rent as a percentage of household income past 12 months
+"Pierce County (Central)--Tacoma City (Central) PUMA, Washington",59556,69037.61015,1617.796947,16.62423601
+"Pierce County (Northwest)--Peninsula Region & Tacoma City (West) PUMA, Washington",56424,99431.26358,2968.969552,11.0273288
+"Pierce County (West Central)--Lakewood City & Joint Base Lewis-McChord PUMA, Washington",46737,63600.27045,1521.516935,17.0954704
+"Pierce County (South Central)--Tacoma City (South), Parkland & Spanaway PUMA; Washington",49279,67835.70304,1905.537207,14.74019359
+"Pierce County (North Central)--Tacoma (Port) & Bonney Lake (Northwest) Cities PUMA, Washington",48458,98780.72413,3128.561001,9.884951917
+"Pierce County (East Central)--Puyallup City & South Hill PUMA, Washington",47877,98831.89444,2649.945945,10.42320947
+"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge PUMA; Washington",42678,86280.59253,2699.136019,4.448919818
+"Seattle City (Northwest) PUMA, Washington",80974,122681.2494,2855.80821,15.66459604
+"Seattle City (Northeast) PUMA, Washington",60537,115351.476,2988.651056,21.83311033
+"Seattle City (Downtown)--Queen Anne & Magnolia PUMA, Washington",95133,110197.651,1507.655819,21.84266238
+"Seattle City (Southeast)--Capitol Hill PUMA, Washington",57618,135883.5846,3302.672637,17.57811795
+"Seattle City (West)--Duwamish & Beacon Hill PUMA, Washington",66264,99380.18306,2780.339853,13.43218037
+"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities PUMA; Washington",52984,114459.1195,3811.85271,12.61382682
+"King County (Northwest)--Redmond, Kirkland Cities, Inglewood & Finn Hill PUMA; Washington",63900,141356.1568,3344.630642,12.88032864
+"King County (Northwest Central)--Greater Bellevue City PUMA, Washington",63959,149491.5624,3981.018778,13.51833206
+"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities PUMA; Washington",61505,168893.3742,5504.914934,8.815299569
+"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway PUMA; Washington",57890,90543.11384,2349.2872,16.19695975
+"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center PUMA; Washington",52551,82138.47424,2322.530494,15.32960362
+"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island PUMA; Washington",52568,75436.18741,2137.28894,18.38687034
+"King County (Southwest Central)--Kent City PUMA, Washington",47597,77856.73299,2157.03433,15.7686829
+"King County (Southwest)--Auburn City & Lakeland PUMA, Washington",46649,77956.8025,2360.701151,12.60434307
+"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities PUMA; Washington",46188,120494.5986,4188.692474,5.829414567
+"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill PUMA; Washington",46280,149858.556,5945.702139,6.278543647
+"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities PUMA; Washington",49806,97129.71602,2850.680259,12.77673373
+"Snohomish County (West Central)--Mukilteo & Everett (Southwest) Cities PUMA, Washington",52974,94577.98203,2238.725337,15.88298033
+"Snohomish County (Central)--Everett City (Central & East) & Eastmont PUMA, Washington",49124,80823.97199,1979.570292,15.72477811
+"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs PUMA; Washington",50403,132594.5313,4303.93058,5.990774359
+"Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities PUMA, Washington",51451,98459.97007,3079.338983,6.913140658
+"Snohomish County (North)--Marysville & Arlington Cities PUMA, Washington",60064,85468.435,2389.175196,9.446090836
