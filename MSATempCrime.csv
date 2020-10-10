@@ -1,0 +1,13 @@
+﻿MSA,Mean High Temp,Mean Low Temp,Mean Annual Temp,Violent Crime per 100k,Robbery per 100k,Property Crime per 100k,Burglary per 100k
+New York City,97,5,53.4,332.9,107.5,1335.6,152.6
+Boston,97,2,52.1,284.4,54.4,1167.3,151.2
+Washington D.C.,99,13,59,264.8,84.3,1656.8,137.9
+San Francisco,93,39,57.8,472.4,217.6,3283.5,400.9
+Los Angeles,101,38,66,494.8,162.7,2246.9,390.5
+Miami-Ft.Lauderdale,95,42,77.5,427.7,116.3,2781.1,315.1
+Louisville,97,4,58.2,417.7,123.1,3094.7,588.9
+Cincinnati,95,-2,54.7,225.2,67.4,2060.7,337
+Houston,103,26,70.3,593.1,176.7,2604.7,443.5
+Denver,101,-12,51.3,413.9,93.1,2954,525.7
+Chicago,95,-7,50.5,443,166.8,2081.6,330.7
+Seattle,94,21,52.9,359,105.5,3331.3,592.2
